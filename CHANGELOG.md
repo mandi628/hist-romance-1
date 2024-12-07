@@ -27,6 +27,8 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 ### Changed
 
 - Updated outline.txt with a reference to setting.txt
+- Added info re: Charleston to setting.txt
+- Added adjusted plot for smuggling to summary.txt
 
 ## [0.0.0] - 2024.12.03
 
