@@ -21,6 +21,12 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 - Created ideas.txt with additional character profiles
 - Created ch_evelyn.txt with detailed sketch for Evelyn
 - Created ch_sebastian.txt with detailed sketch for Sebastian
+- Created outline_alt.txt with an alternate outline for the book, or an idea for a second book
+- Created setting.txt with notes about settings for the story
+
+### Changed
+
+- Updated outline.txt with a reference to setting.txt
 
 ## [0.0.0] - 2024.12.03
 
