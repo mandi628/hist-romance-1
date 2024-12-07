@@ -2,6 +2,9 @@ Summary: The book starts at the wedding of a couple in the late Victorian era. T
 don't know each other well, but they are getting married out of necessity. They must 
 marry each other in order to receive the inheritance of the woman's late grandfather.
 
+*** See setting.txt for more ideas on how to build the outline more. Maybe he could be 
+updating the estate operations or running a distillery instead of smuggling??? ***
+
 Prologue
 	- We meet Nellie's and Daniel's grandfathers as young men and best friends
 	- Sets the tone for the relationship and connection between the characters
